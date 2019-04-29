@@ -1,4 +1,4 @@
-# macOS on Dell XPS 9360
+# macOS on Dell XPS 9360 From Darkvoid！
 
 This repository contains a sample configuration to run macOS (Currently Mojave Sierra `10.14.4`) on a Dell XPS 9360
 
